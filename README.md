@@ -1,7 +1,7 @@
 Jellyfish Search(JS) optimizer is metaheuristic algorithm that is motivated by search behaivor of jellyfish involves their following the ocean current, their motions inside a jellyfish swarm(active motions and passive motions).In this project we use Jellyfish search optimizer algorithm to optimize Random Forest parameter that observe F-measure Score.We also compare the output of the F-measure with Jellyfish optimizer and without Jellyfish optimizer.
-\\
+
 Jellyfish Pseudo Code:
-\\
+
 In general Rule:
 1-	Jellyfısh eıther follow the ocean current or move ınsıde the swarm, and a "time control mechanism" governs the switching between these types of movement.
 2-	Jellyfish move in the ocean in search of food. They are more attracted to locations where the available quantity of food is greater.
